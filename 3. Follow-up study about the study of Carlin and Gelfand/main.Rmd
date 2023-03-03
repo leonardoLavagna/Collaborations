@@ -597,7 +597,7 @@ We can say again that $\alpha$ has the lower MCSE and gives a higher error w.r.t
 
 $$~$$
 
-# 1.l) Which parameter has the largest posterior uncertainty? How did you measure it?
+# 1.l) Which parameter has the largest posterior uncertainty?
 
 $$~$$
 The largest posterior uncertainty for the hyper parameters handled by us is based on considering the ***confidence interval at 95% level***, So for $\tau^2$:
