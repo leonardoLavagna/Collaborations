@@ -1,6 +1,6 @@
 ---
-title: "Leonardo Lavagna 1650170 - HW2"
-author: "Leonardo Lavagna 1650170"
+title: "Leonardo Lavagna"
+author: "Leonardo Lavagna"
 date: "15/06/2022"
 output: html_document
 ---
