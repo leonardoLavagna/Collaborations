@@ -1,5 +1,5 @@
 ---
-title: "Leonardo Lavagna"
+title: "Follow-up study about the study of Carlin and Gelfand"
 author: "Leonardo Lavagna"
 date: "15/06/2022"
 output: html_document
