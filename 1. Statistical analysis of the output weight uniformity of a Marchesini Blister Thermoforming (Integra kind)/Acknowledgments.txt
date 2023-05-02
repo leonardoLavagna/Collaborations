@@ -1,2 +1,0 @@
-The datasets misure_1.txt and misure_2.txt were provided by the laboratory of Prof. D. Secci, Dipartimento di Chimica e Tecnologie del Farmaco, Sapienza University of Rome.
-
