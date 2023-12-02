@@ -8,7 +8,7 @@ Here you can find some informations about the projects I would like to carry out
 2. [Sustainability assessment visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022). Prized contest issued by [Départ de Sentier](https://www.d-d-s.ch/).
 3. [Follow-up on the study of Carlin and Gelfand](https://link.springer.com/article/10.1007/BF01889986).
 
-### ✅ Projects of 2023 (open)
+### ❌ Projects of 2023 (closed)
 - [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/).
 - [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/).
 
