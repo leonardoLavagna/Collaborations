@@ -6,7 +6,7 @@ Here you can find some informations about the projects I would like to carry out
 
 ### ❌ Projects of 2022 (closed)
 2. [Sustainability assessment visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022). Prized contest issued by [Départ de Sentier](https://www.d-d-s.ch/) 💵 💥 👍🏻 🚫.
-3. [Follow-up on the study of Carlin and Gelfand](https://link.springer.com/article/10.1007/BF01889986) 🔎 🚫.
+3. [Follow-up on the study of Carlin and Gelfand](https://link.springer.com/article/10.1007/BF01889986) 🔎 👍🏻 🚫.
 
 ### ❌ Projects of 2023 (closed)
 3. [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/) 🔎 👎🏻 🚫.
@@ -14,7 +14,7 @@ Here you can find some informations about the projects I would like to carry out
 
 ### ✅ Projects 2024 (open and extended to 2025)
 5. [Expanding Waves Simulation Notebooks](https://github.com/leonardoLavagna/Waves-Simulation) 🧑🏻‍💻 .
-6. [Updating and applying a Streamlit app](https://github.com/leonardoLavagna/molecule_solubility_prediction_app) 🧑🏻‍💻 🚫.
+6. [Updating and applying a Streamlit app](https://github.com/leonardoLavagna/molecule_solubility_prediction_app) 🧑🏻‍💻 👍🏻 🚫.
 
 ### ✅ Projects 2025 (open)
-7. [Blaise Pascal Quantum Challenge](https://www.agorize.com/en/challenges/blaisepascalquantumchallenge2025?lang=en). Prized contest issued by [Pasqal](https://www.pasqal.com/]) 💵 💥 🚫.
+7. [Blaise Pascal Quantum Challenge](https://www.agorize.com/en/challenges/blaisepascalquantumchallenge2025?lang=en). Prized contest issued by [Pasqal](https://www.pasqal.com/]) 💵 💥 👎🏻 🚫.
