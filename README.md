@@ -22,4 +22,4 @@ Here you can find some informations about the projects I would like to carry out
 
 ### ✅ Projects 2025 (open)
 7. [Blaise Pascal Quantum Challenge](https://www.agorize.com/en/challenges/blaisepascalquantumchallenge2025?lang=en). Prized contest issued by [Pasqal](https://www.pasqal.com/]) 💵 🧑🏻‍💻 💥 👎🏻 🚫.
-8. Paid Machine Learning Tool development for a CMO 💼 💵 🧑🏻‍💻
+8. Paid Machine Learning Tool development for a CMO 💼 💵 🧑🏻‍💻.
