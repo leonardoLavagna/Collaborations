@@ -2,7 +2,7 @@
 Here you can find some informations about the projects I would like to carry out, or that I've carried out, in collaboration with someone outside my workplace or outside my academic network. The main idea is to connect with interesting people in the field of data science, have fun, and improve our soft and hard skills. Typically I try to work on one or two projects each year with some data enthusiast like me. Most of this projects are either reviews on specific topics, challenges (prized and unprized), exchange of opinions and collaborative coding. Sometimes I can propose collaborations on paid specialized consultancies. If you are interested contact me on [Linkedin](https://www.linkedin.com/in/leonardo-lavagna-0675a81a2/) or by e-mail llavagna@proton.me.
 
 #### Legend
-| - ❌ Unavailable | 💼 Require a formal contract | 💵 Paid | 👍🏻 Done | 👎🏻 Not done | 🚫 Closed | 🔎 Research | 🧑🏻‍💻 Coding |
+ 💼 Require a formal contract | 💵 Paid | 👍🏻 Done | 👎🏻 Not done | 🚫 Closed | 🔎 Research | 🧑🏻‍💻 Coding |
 |-----------------|-----------------------------|--------|---------|-------------|----------|------------|------------|
 
 ### ❌ Projects of 2021 (closed)
