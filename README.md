@@ -16,7 +16,7 @@ Here you can find some information about the projects I would like to carry out,
 3. [Simplicial Homology and Patterns in Complex (real, biological) Data](https://www.scientificamerican.com/article/how-squishy-math-is-revealing-doughnuts-in-the-brain/) 🔎 👎🏻 🚫.
 4. [Principles of Momentum computing in the "cold" informatic's framework](https://www.scientificamerican.com/article/lsquo-momentum-computing-rsquo-pushes-technology-rsquo-s-thermodynamic-limits/) 🔎 👎🏻 🚫.
 
-### ❌ Projects 2024 (open and extended to Genuary 2025)
+### ❌ Projects 2024 (extended to Genuary 2025, closed)
 5. [Expanding Waves Simulation Notebooks](https://github.com/leonardoLavagna/Waves-Simulation) 🧑🏻‍💻 👎🏻.
 6. [Updating and applying a Streamlit app](https://github.com/leonardoLavagna/molecule_solubility_prediction_app) 🧑🏻‍💻 👍🏻 🚫.
 
