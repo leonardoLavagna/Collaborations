@@ -6,7 +6,7 @@ Here you can find some information about the projects I would like to carry out,
 
 
 ### ❌ Projects of 2021 (closed)
-1.[Statistical analysis of the output weight uniformity of a Marchesini Blister Thermoforming (Integra kind)](https://www.marchesini.com/it/blister-thermoforming). Paid Consultancy in collaboration with [IDI farmaceutici](https://www.idifarmaceutici.com/) 💼 💵 👍🏻 🚫.
+1. [Statistical analysis of the output weight uniformity of a Marchesini Blister Thermoforming (Integra kind)](https://www.marchesini.com/it/blister-thermoforming). Paid Consultancy in collaboration with [IDI farmaceutici](https://www.idifarmaceutici.com/) 💼 💵 👍🏻 🚫.
 
 ### ❌ Projects of 2022 (closed)
 2. [Sustainability assessment visualization contest](https://github.com/Depart-de-Sentier/visualization-contest-2022). Prized contest issued by [Départ de Sentier](https://www.d-d-s.ch/) 💵 🧑🏻‍💻 👍🏻 🚫.
