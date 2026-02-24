@@ -25,4 +25,4 @@ Here you can find some information about the projects I would like to carry out,
 8. Development of a Machine Learning Tool for a CMO 💼 👍🏻 💵 🧑🏻‍💻.
 
 ### Projects 2026 (open)
-TO DO
+9. Quantum-tinyC: Intermediate Representations with the quantum equivalent of the [Bhöm-Jacopini theorem](https://en.wikipedia.org/wiki/Structured_program_theorem)
